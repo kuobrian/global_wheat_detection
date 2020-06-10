@@ -1,1 +1,7 @@
-"# global_wheat_detection" 
+## [Kaggle] Global Wheat Detection
+
+
+TODO:
+- [ ] Pseudo Labeling
+- [ ] Faster Rcnn
+- [ ] Yolov4
